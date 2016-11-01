@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca50202-2643-40c2-ade9-e05a5cfa443e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/qunit-composite/testRunnerComposite.html" afterPath="$PROJECT_DIR$/test/qunit-composite/testRunnerComposite.html" />
     </list>
     <ignored path="TeamCityQUnit1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +57,8 @@
       <file leaf-file-name="testRunnerComposite.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/qunit-composite/testRunnerComposite.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -358,12 +356,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1391215363335</updated>
-      <workItem from="1478022992749" duration="1106000" />
+      <workItem from="1478022992749" duration="1238000" />
     </task>
+    <task id="LOCAL-00001" summary="made a comment">
+      <created>1478035132744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478035132744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1106000" />
+    <option name="totallyTimeSpent" value="1238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="159" width="1479" height="997" extended-state="0" />
@@ -398,6 +404,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="made a comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -513,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/qunit-composite/testRunnerComposite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
